@@ -23,6 +23,7 @@
 #include <SDL_log.h>
 #include <SDL_main.h>
 #include <SDL_messagebox.h>
+#include <SDL_mixer.h>
 #include <SDL_mouse.h>
 #include <SDL_mutex.h>
 #include <SDL_name.h>
